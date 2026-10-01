@@ -1,6 +1,6 @@
 # TODO List
 
-Linear: [Gamma project](https://linear.app/menhir-holdings/project/gamma-a17d2ca6-89f4-4b8b-af3b-9b132b05c3db).
+Product name is Prisma (was Gamma).
 
 ## In review
 

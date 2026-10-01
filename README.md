@@ -1,8 +1,8 @@
-# Gamma
+# Prisma
 
 Harmonic palette generator.
 
 
 ## License
 
-All Rights Reserved © Menhir Holdings
+All Rights Reserved © Philippe Ledoit

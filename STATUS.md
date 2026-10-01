@@ -1,15 +1,15 @@
-# Gamma — Status
+# Prisma — Status
 
-**As of:** 2026-09-10  
-**SoT:** [Linear — Gamma](https://linear.app/menhir-holdings/project/gamma-a17d2ca6-89f4-4b8b-af3b-9b132b05c3db)  
-**Checkout:** `Menhir Holdings/Color/Gamma`
+**As of:** 2026-10-01  
+**Checkout:** `personal/Stonehenge/Color/Prisma`  
+**Was:** Gamma. GitHub rename to `ledoit/Prisma` follows the account move.
 
 ## Shipped
 
 - Harmonic palette generator (14 patterns, circle-of-fifths ring, hex copy)
 - Cold load always renders defaults — never a blank page
 - `localStorage` restores last palette settings on return ([MT-26](https://linear.app/menhir-holdings/issue/MT-26))
-- Live at [gamma.menhir-holdings.com](https://gamma.menhir-holdings.com)
+- Live at [prisma.koalasalmon.com](https://prisma.koalasalmon.com)
 
 ## In review
 
